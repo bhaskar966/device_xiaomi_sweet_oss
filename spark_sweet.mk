@@ -27,4 +27,4 @@ BUILD_FINGERPRINT := Xiaomi/dipper/dipper:8.1.0/OPM1.171019.011/V9.5.5.0.OEAMIFA
 
 # Spark OS stuffs
 WITH_GAPPS := true
-
+TARGET_NO_PREBUILT_CAMERA := true
